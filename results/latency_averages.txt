@@ -1,0 +1,5 @@
+Average latency (ms) by case
+fake_1: 76.35
+fake_2: 69.61
+real_1: 92.94
+real_2: 77.13
